@@ -19,19 +19,19 @@
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-stn5XOZNRnE/YHAyiPbujII/AAAAAAAAhoE/-6fL5wkFVWslNB4mTSNMeMiHMp5orSt4gCLcBGAsYHQ/s144/defantri%2Bbulat%2Bputih.png",
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-stn5XOZNRnE/YHAyiPbujII/AAAAAAAAhoE/-6fL5wkFVWslNB4mTSNMeMiHMp5orSt4gCLcBGAsYHQ/s143/defantri%2Bbulat%2Bputih.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-stn5XOZNRnE/YHAyiPbujII/AAAAAAAAhoE/-6fL5wkFVWslNB4mTSNMeMiHMp5orSt4gCLcBGAsYHQ/s168/defantri%2Bbulat%2Bputih.png",
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-stn5XOZNRnE/YHAyiPbujII/AAAAAAAAhoE/-6fL5wkFVWslNB4mTSNMeMiHMp5orSt4gCLcBGAsYHQ/s167/defantri%2Bbulat%2Bputih.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-stn5XOZNRnE/YHAyiPbujII/AAAAAAAAhoE/-6fL5wkFVWslNB4mTSNMeMiHMp5orSt4gCLcBGAsYHQ/s192/defantri%2Bbulat%2Bputih.png",
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-stn5XOZNRnE/YHAyiPbujII/AAAAAAAAhoE/-6fL5wkFVWslNB4mTSNMeMiHMp5orSt4gCLcBGAsYHQ/s191/defantri%2Bbulat%2Bputih.png",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-stn5XOZNRnE/YHAyiPbujII/AAAAAAAAhoE/-6fL5wkFVWslNB4mTSNMeMiHMp5orSt4gCLcBGAsYHQ/s512/defantri%2Bbulat%2Bputih.png",
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-stn5XOZNRnE/YHAyiPbujII/AAAAAAAAhoE/-6fL5wkFVWslNB4mTSNMeMiHMp5orSt4gCLcBGAsYHQ/s510/defantri%2Bbulat%2Bputih.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
