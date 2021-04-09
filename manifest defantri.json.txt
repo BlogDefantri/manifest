@@ -5,33 +5,33 @@
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#C51162",
-  "description": "Catatan Calon Guru Matematika About Berita Edukasi, Matematika Dasar, Matematika SMA, Matematika SMP, Matematika SD, Cerita Motivasi, dan Cerita Sekolah",
+  "description": "Catatan Calon Guru, Media BELAJAR, Matematika Dasar SMA, SMP dan SD, BERLATIH Matematika Dasar SMA, SMP dan SD dan BERBAGI Materi Matematika Dasar SMA, SMP dan SD, BERBAGI Materi Pelajaran Sekolah, Berita Edukasi dan Artikel Inspiratif.",
   "icons": [{
-    "src": "https://cdn.staticaly.com/img/3.bp.blogspot.com/-eOsiA2XOSeQ/WSjRdL0EF_I/AAAAAAAALRw/tUlo5gLLApk3d_JNy8eyz3uCK0M4k_qDwCLcB/s48/icon_defantri.png",
-    "sizes": "48x48",
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-stn5XOZNRnE/YHAyiPbujII/AAAAAAAAhoE/-6fL5wkFVWslNB4mTSNMeMiHMp5orSt4gCLcBGAsYHQ/s48/defantri%2Bbulat%2Bputih.png",
+    "sizes": "48x48",  1.bp.blogspot.com/-stn5XOZNRnE/YHAyiPbujII/AAAAAAAAhoE/-6fL5wkFVWslNB4mTSNMeMiHMp5orSt4gCLcBGAsYHQ/s0/defantri%2Bbulat%2Bputih.png
     "type": "image/png"
   }, {
-    "src": "https://cdn.staticaly.com/img/3.bp.blogspot.com/-eOsiA2XOSeQ/WSjRdL0EF_I/AAAAAAAALRw/tUlo5gLLApk3d_JNy8eyz3uCK0M4k_qDwCLcB/s72/icon_defantri.png",
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-stn5XOZNRnE/YHAyiPbujII/AAAAAAAAhoE/-6fL5wkFVWslNB4mTSNMeMiHMp5orSt4gCLcBGAsYHQ/s72/defantri%2Bbulat%2Bputih.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://cdn.staticaly.com/img/3.bp.blogspot.com/-eOsiA2XOSeQ/WSjRdL0EF_I/AAAAAAAALRw/tUlo5gLLApk3d_JNy8eyz3uCK0M4k_qDwCLcB/s96/icon_defantri.png",
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-stn5XOZNRnE/YHAyiPbujII/AAAAAAAAhoE/-6fL5wkFVWslNB4mTSNMeMiHMp5orSt4gCLcBGAsYHQ/s96/defantri%2Bbulat%2Bputih.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://cdn.staticaly.com/img/3.bp.blogspot.com/-eOsiA2XOSeQ/WSjRdL0EF_I/AAAAAAAALRw/tUlo5gLLApk3d_JNy8eyz3uCK0M4k_qDwCLcB/s144/icon_defantri.png",
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-stn5XOZNRnE/YHAyiPbujII/AAAAAAAAhoE/-6fL5wkFVWslNB4mTSNMeMiHMp5orSt4gCLcBGAsYHQ/s144/defantri%2Bbulat%2Bputih.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://cdn.staticaly.com/img/3.bp.blogspot.com/-eOsiA2XOSeQ/WSjRdL0EF_I/AAAAAAAALRw/tUlo5gLLApk3d_JNy8eyz3uCK0M4k_qDwCLcB/s168/icon_defantri.png",
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-stn5XOZNRnE/YHAyiPbujII/AAAAAAAAhoE/-6fL5wkFVWslNB4mTSNMeMiHMp5orSt4gCLcBGAsYHQ/s168/defantri%2Bbulat%2Bputih.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://cdn.staticaly.com/img/3.bp.blogspot.com/-eOsiA2XOSeQ/WSjRdL0EF_I/AAAAAAAALRw/tUlo5gLLApk3d_JNy8eyz3uCK0M4k_qDwCLcB/s192/icon_defantri.png",
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-stn5XOZNRnE/YHAyiPbujII/AAAAAAAAhoE/-6fL5wkFVWslNB4mTSNMeMiHMp5orSt4gCLcBGAsYHQ/s192/defantri%2Bbulat%2Bputih.png",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://cdn.staticaly.com/img/3.bp.blogspot.com/-eOsiA2XOSeQ/WSjRdL0EF_I/AAAAAAAALRw/tUlo5gLLApk3d_JNy8eyz3uCK0M4k_qDwCLcB/s512/icon_defantri.png",
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-stn5XOZNRnE/YHAyiPbujII/AAAAAAAAhoE/-6fL5wkFVWslNB4mTSNMeMiHMp5orSt4gCLcBGAsYHQ/s512/defantri%2Bbulat%2Bputih.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
