@@ -8,7 +8,7 @@
   "description": "Catatan Calon Guru, Media BELAJAR, Matematika Dasar SMA, SMP dan SD, BERLATIH Matematika Dasar SMA, SMP dan SD dan BERBAGI Materi Matematika Dasar SMA, SMP dan SD, BERBAGI Materi Pelajaran Sekolah, Berita Edukasi dan Artikel Inspiratif.",
   "icons": [{
     "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-stn5XOZNRnE/YHAyiPbujII/AAAAAAAAhoE/-6fL5wkFVWslNB4mTSNMeMiHMp5orSt4gCLcBGAsYHQ/s48/defantri%2Bbulat%2Bputih.png",
-    "sizes": "48x48",  1.bp.blogspot.com/-stn5XOZNRnE/YHAyiPbujII/AAAAAAAAhoE/-6fL5wkFVWslNB4mTSNMeMiHMp5orSt4gCLcBGAsYHQ/s0/defantri%2Bbulat%2Bputih.png
+    "sizes": "48x48",
     "type": "image/png"
   }, {
     "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-stn5XOZNRnE/YHAyiPbujII/AAAAAAAAhoE/-6fL5wkFVWslNB4mTSNMeMiHMp5orSt4gCLcBGAsYHQ/s72/defantri%2Bbulat%2Bputih.png",
